@@ -1,0 +1,14 @@
+[
+  {
+    "alert_id": "DEMO-001",
+    "timestamp": "2026-07-27T12:00:00Z",
+    "source_tool": "Demonstration Email Gateway",
+    "title": "Suspicious account verification message",
+    "severity": "High",
+    "user": "demo.user",
+    "host": "DEMO-MAILBOX",
+    "ip": "192.0.2.10",
+    "domain": "example.invalid",
+    "description": "Synthetic, defanged demonstration alert."
+  }
+]
