@@ -15,6 +15,10 @@ SOC Augmentor is a cybersecurity engineering project built to reduce the time an
 
 This public repository is a **portfolio and technical case study**. It intentionally contains no proprietary application source code, API credentials, private configuration or commercially sensitive detection logic.
 
+## Connected
+This *portfolio and technical case study** can also be viewed as **GitHub Pages**:
+https://grhmmckean33.github.io/soc-augmentor-pages/index.html
+
 ## The problem
 
 Analysts often move between email gateways, SIEM alerts, reputation services, endpoint tools, threat-intelligence portals and report templates. The process can become slow, noisy and difficult to audit.
