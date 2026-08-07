@@ -102,7 +102,7 @@ The project evidences Python application engineering, modular architecture, brow
 
 ## Screenshots
 
-Use the redaction guide in [`assets/screenshots/README.md`](assets/screenshots/README.md) before publishing any interface images.
+To be included.
 
 ## Responsible use
 
@@ -110,4 +110,4 @@ SOC Augmentor is intended for authorised defensive security analysis, education 
 
 ---
 
-**Cyber Columbo SOC Augmentor — from raw evidence to an explainable SOC decision.**
+**SOC Augmentor — from raw evidence to an explainable SOC decision.**
