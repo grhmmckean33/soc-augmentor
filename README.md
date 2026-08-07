@@ -16,8 +16,8 @@ SOC Augmentor is a cybersecurity engineering project built to reduce the time an
 This public repository is a **portfolio and technical case study**. It intentionally contains no proprietary application source code, API credentials, private configuration or commercially sensitive detection logic.
 
 ## Connected
-This *portfolio and technical case study* can also be viewed on my **GitHub Pages**:
-https://grhmmckean33.github.io/soc-augmentor-pages/index.html
+This *portfolio and technical case study* can also be viewed on my <a href="https://grhmmckean33.github.io/soc-augmentor-pages/index.html">**GitHub Pages**</a>
+
 
 ## The problem
 
