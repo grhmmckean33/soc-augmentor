@@ -1,6 +1,6 @@
 # 🛡️ SOC Augmentor
 
-**Evidence-led SOC analyst augmentation — public engineering portfolio**
+**Evidence led SOC analyst augmentation — public engineering portfolio**
 
 > This repository documents the design, architecture, development and validation of SOC Augmentor.  
 > **Application source code is intentionally not published** because the project may be commercialised.
@@ -9,24 +9,24 @@
 
 ## Recruiter quick read
 
-SOC Augmentor is a Python/Streamlit security-engineering project built to turn supplied SOC alert evidence into a structured investigation foundation. The current V7.3.3 supports Microsoft Defender XDR and Splunk JSON workflows, contextual IOC handling, threat-intelligence enrichment, MITRE ATT&CK mapping, timelines, 5W1H analysis, evidence gaps and professional PDF reporting.
+SOC Augmentor is a Python/Streamlit security-engineering project built to turn supplied SOC alert evidence into a structured investigation foundation. The current V7.3.3 supports Microsoft Defender XDR and Splunk JSON workflows, contextual IOC handling, threat intelligence enrichment, MITRE ATT&CK mapping, timelines, 5W1H analysis, evidence gaps and professional PDF reporting.
 
-The application is intentionally **human-in-the-loop**. It does not replace a SOC analyst and does not claim to complete an investigation from alert JSON alone.
+The application is intentionally **human in the loop**. It does not replace a SOC analyst and does not claim to complete an investigation from alert JSON alone.
 
 ## Current capabilities
 
 - Microsoft Defender XDR JSON alert analysis
-- Splunk scheduled-search/notable alert analysis
+- Splunk scheduled search/notable alert analysis
 - Phishing/email analysis
 - Evidence normalisation and source-aware routing
 - Observed indicator vs confirmed malicious IOC separation
 - VirusTotal, AbuseIPDB and OTX enrichment
-- Context-preserving Threat Intelligence attribution
+- Context preserving Threat Intelligence attribution
 - MITRE ATT&CK mapping
 - Findings, timeline and 5W1H
 - Evidence coverage, confidence and contradiction checks
 - Explicit investigation scope and evidence boundaries
-- Further-investigation guidance
+- Further investigation guidance
 - Professional PDF/structured report generation
 
 ## Testing and accuracy
@@ -44,7 +44,7 @@ The current release:
 - provides the **foundation of an investigation**, not a completed Tier-2 investigation;
 - requires analyst validation and corroboration.
 
-Future work includes secure online availability, direct permissioned integrations, adding follow-up investigation evidence to an existing case, broader tool/software OSINT and expanded benchmark coverage.
+Future work includes secure online availability, direct permissioned integrations, adding follow up investigation evidence to an existing case, broader tool/software OSINT and expanded benchmark coverage.
 
 ## Architecture
 
