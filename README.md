@@ -50,10 +50,6 @@ Future work includes secure online availability, direct permissioned integration
 
 ![SOC Augmentor architecture](assets/img/architecture.svg)
 
-## Screenshots
-
-Real V7.3.3 UI screenshots should be added under `assets/screenshots/`. The public site is already wired for the required captures; see [the screenshot guide](assets/screenshots/README.md).
-
 ## Documentation
 
 - [Project overview](docs/PROJECT_OVERVIEW.md)
@@ -67,7 +63,3 @@ Real V7.3.3 UI screenshots should be added under `assets/screenshots/`. The publ
 ## Public/private boundary
 
 This repository deliberately contains **no application source code**. Public materials include architecture, testing methodology, engineering decisions, screenshots, sample reports and roadmap information only.
-
-## Deployment
-
-GitHub Pages can be enabled from **Settings → Pages → Deploy from a branch → main / root**. The repository includes `.nojekyll` and requires no build step.
