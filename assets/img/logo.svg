@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#55e6c1"/><stop offset="1" stop-color="#5aa9ff"/></linearGradient></defs>
+<rect width="520" height="120" rx="24" fill="#0b1220"/>
+<path d="M62 22 96 35v28c0 24-15 39-34 48C43 102 28 87 28 63V35z" fill="none" stroke="url(#g)" stroke-width="6"/>
+<path d="m46 61 11 11 22-27" fill="none" stroke="#55e6c1" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="120" y="58" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#f5f8ff">SOC Augmentor</text>
+<text x="122" y="86" font-family="Arial,sans-serif" font-size="15" fill="#93a7c7">Evidence-led analyst augmentation</text>
+</svg>

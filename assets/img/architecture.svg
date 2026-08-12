@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 580">
+<style>.b{fill:#111c30;stroke:#2c4167;stroke-width:2}.t{fill:#eef5ff;font:600 18px Arial}.s{fill:#9bb0ce;font:14px Arial}.a{stroke:#55e6c1;stroke-width:3;fill:none;marker-end:url(#m)}</style>
+<defs><marker id="m" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#55e6c1"/></marker></defs>
+<rect width="1100" height="580" rx="24" fill="#08111f"/>
+<text x="55" y="58" class="t" font-size="26">SOC Augmentor — public architecture view</text>
+<rect x="55" y="115" width="225" height="105" rx="16" class="b"/><text x="82" y="153" class="t">Evidence input</text><text x="82" y="181" class="s">Defender XDR JSON</text><text x="82" y="203" class="s">Splunk alert JSON / email</text>
+<rect x="355" y="115" width="250" height="105" rx="16" class="b"/><text x="382" y="153" class="t">Source adapters</text><text x="382" y="181" class="s">Normalisation + routing</text><text x="382" y="203" class="s">Evidence preservation</text>
+<rect x="680" y="115" width="300" height="105" rx="16" class="b"/><text x="707" y="153" class="t">Canonical investigation model</text><text x="707" y="181" class="s">Host • account • timeline • IOCs</text><text x="707" y="203" class="s">confidence • evidence gaps</text>
+<path d="M280 168h75" class="a"/><path d="M605 168h75" class="a"/>
+<rect x="120" y="315" width="250" height="115" rx="16" class="b"/><text x="147" y="352" class="t">Analysis engines</text><text x="147" y="380" class="s">IOC hygiene • phishing</text><text x="147" y="402" class="s">MITRE • validation • 5W1H</text>
+<rect x="430" y="315" width="250" height="115" rx="16" class="b"/><text x="457" y="352" class="t">Threat intelligence</text><text x="457" y="380" class="s">VirusTotal • AbuseIPDB</text><text x="457" y="402" class="s">OTX • contextual attribution</text>
+<rect x="740" y="315" width="250" height="115" rx="16" class="b"/><text x="767" y="352" class="t">Reporting layer</text><text x="767" y="380" class="s">Executive summary • timeline</text><text x="767" y="402" class="s">PDF • evidence boundaries</text>
+<path d="M830 220v50H245v45" class="a"/><path d="M830 220v50H555v45" class="a"/><path d="M830 220v95" class="a"/>
+<text x="55" y="520" class="s">Implementation details intentionally omitted from the public repository.</text>
+</svg>
