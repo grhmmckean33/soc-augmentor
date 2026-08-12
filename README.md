@@ -5,7 +5,7 @@
 > This repository documents the design, architecture, development and validation of SOC Augmentor.  
 > **Application source code is intentionally not published** because the project may be commercialised.
 
-[🌐 View GitHub Pages](https://grhmmckean33.github.io/soc-augmentor/) · [🧪 Testing & Validation](testing.html) · [🗺️ Roadmap](roadmap.html) · [📄 Sample Report](reports/KCD-Splunk-Alert-SOC-Augmentor-V7.3.3.pdf)
+[🌐 View GitHub Pages](https://grhmmckean33.github.io/soc-augmentor/) · [🧪 Testing & Validation](testing.html) · [🗺️ Roadmap](roadmap.html) · [📄 Sample Report](reports/Defender-Alert-SOC-Augmentor.pdf)
 
 ## Recruiter quick read
 
