@@ -1,4 +1,4 @@
-# 🛡️ SOC Augmentor
+# 🛡️ SOC Augmentor - Automated SOC Invstigation and Report Generator
 
 **Evidence led SOC analyst augmentation — public engineering portfolio**
 
